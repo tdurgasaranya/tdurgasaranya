@@ -39,7 +39,7 @@ Regarding [Data Feminism], my current knowledge includes:
 - However, I have not yet delved into the details of the next chapters, and my understanding is limited so,
 - I am eager to explore and learn more about Data Feminism to expand my knowledge.
 
-## Overall Summary
+### Overall Summary
 - I am confident and proficient in these below concepts:
 - Data loading, Data manupulation in R studio, Data transforming with Git to R
 - Linear Regression concept, Data dimensions
