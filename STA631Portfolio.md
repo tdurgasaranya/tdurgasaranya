@@ -1,6 +1,6 @@
 # STA631 course portfolio Report for academic purpose and self learning
-
-[Professor](https://github.com/dykesb)
+- Professor profile
+[Instructor](https://github.com/dykesb)
 
 This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course.
 
@@ -8,16 +8,16 @@ This report provides an overview of my proficiency and understanding of the chap
 
 ### [Sections 1-2 , DF Chapter 1]
 
-**I consider myself proficient in [Chapter 1] because:**
+**I consider myself proficient in [Chapter 1 DF and ISLR sections 1] because:**
 - I have studied the concepts from Data feminism introduction chapters and also was intrested to read further and look into the articles
 - and worked on the R studio examples presented in the chapter.
-- I have completed related assignments (Data loading and knowing the dimensionality of the data) and worked on acitvities 01,1 required the application of [Chapter 1] concepts, showcasing my understanding.
+- I have completed related assignments (Data loading and knowing the dimensionality of the data) and worked on acitvities 01,1 required the application of concepts, showcasing my understanding.
 - I am consistently engaging and demonstrating my ability to apply the knowledge and concepts learnt from the class and the textbook.
 - I am actively engaging in the Teams discussions and trying to contribute to class activities (Breakout rooms), solidifying my understanding and enhancing my learning experience.
 
-### [Section 2]
+### [Section 2, DF Introduction and overviews]
 
-In [Chapter 2], I feel proficient because:
+In [Sections 2], I feel proficient because:
 - I got an extensive practical experience on R studio connecting with Git working with the concepts and techniques covered in this chapter, including understanding distribution, plots, visual effects.
 - I am also working on activities 02, preparation 2 which are required for gaining concepts knowledge from this sections.
 - I am trying to successfully apply the knowledge gained from these section 2.
@@ -35,10 +35,19 @@ In [Chapter Name 3], I currently know:
 ### [Section 3, 3.1] [DF chapter 1]
 
 Regarding [Data Feminism], my current knowledge includes:
-- I understand the Df chapter importance and how the article includes Data diversity and digital transformations(how the researches took the perception of 
-- women gener bias and unequality with data diversity and its relevance in our course.
+- I understand the Df chapter importance and how the article includes Data diversity and digital transformations(how the researches took the perception of women gener bias and unequality with data diversity and its relevance in our course.
 - However, I have not yet delved into the details of the next chapters, and my understanding is limited so,
 - I am eager to explore and learn more about Data Feminism to expand my knowledge.
+
+## Overall Summary
+- I am confident and proficient in these below concepts:
+- Data loading, Data manupulation in R studio, Data transforming with Git to R
+- Linear Regression concept, Data dimensions
+- Distribution of values with two variable comparisions
+- Scatter plot, Histogram distribution
+- To find the coefficiency of two variable determining the strength of linearity
+- Pearson and Spearman coefficient methods
+- To find the error rate and prediction
 
 ## Unaware Chapters
 
