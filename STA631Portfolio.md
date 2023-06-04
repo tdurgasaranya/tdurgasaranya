@@ -6,7 +6,7 @@ This report provides an overview of my proficiency and understanding of the chap
 
 ## Proficient Chapters
 
-### [Sections 1-2 , DF Chapter 1]
+### [Sections 1 , DF Chapter 1]
 
 **I consider myself proficient in [Chapter 1 DF and ISLR sections 1] because:**
 - I have studied the concepts from Data feminism introduction chapters and also was intrested to read further and look into the articles
