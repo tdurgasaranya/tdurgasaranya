@@ -29,6 +29,20 @@ Generalized Linear Models (GLMs) provide a flexible framework that includes both
 
 Throughout these chapters, I gained a deep understanding of logistic regression, multinomial regression, and generalized linear models. I can now apply these techniques to solve classification problems, make predictions, and analyze categorical data effectively. My statistics portfolio demonstrates my proficiency in these advanced regression methods and showcases my ability to handle diverse data analysis tasks using statistical models.
 
+# Resampling & Cross-validation
+
+## Introduction to Resampling & Cross-validation
+
+In this chapter, I explored the concepts of resampling methods, which are essential for estimating the performance of statistical models and reducing the risk of overfitting. Resampling involves repeatedly drawing samples from the data to obtain more reliable estimates of model performance. Cross-validation is a widely used resampling technique that partitions the data into training and testing sets, allowing us to evaluate the model on unseen data and assess its generalization capabilities.
+
+## Model Selection & Multiple Testing
+- Model Selection:
+Model selection is a critical step in the modeling process, where we compare and choose the best-performing model from a set of candidate models. I learned about various model selection techniques, such as stepwise regression, Akaike Information Criterion (AIC), Bayesian Information Criterion (BIC), and cross-validated performance metrics. These methods help us identify the most appropriate model that balances complexity and predictive accuracy.
+
+Multiple Testing:
+In statistical analyses involving multiple hypotheses, the risk of making Type I errors increases. Multiple testing corrections address this issue by controlling the overall false discovery rate. I explored different multiple testing correction methods, including the Bonferroni correction, Benjamini-Hochberg procedure, and False Discovery Rate (FDR). These techniques enable us to draw reliable conclusions from analyses with multiple comparisons.
+
+Throughout this chapter, I gained practical insights into resampling techniques, cross-validation, model selection, and multiple testing corrections. These concepts are indispensable for building robust and reliable statistical models, as well as drawing valid inferences from data analyses with multiple hypotheses.
 
 
 - I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
