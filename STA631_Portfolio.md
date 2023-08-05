@@ -2,13 +2,7 @@
 
 [Professor-STA631](https://github.com/dykesb)
 
-This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course.
-
----
-title: "Statistics Portfolio"
-author: "Durga Tummalapalli"
-date: "August 4, 2023"
----
+***This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course***
 
 # Statistics Portfolio
 
