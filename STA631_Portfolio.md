@@ -69,6 +69,7 @@ In Chapter 4, I delved into the fascinating world of Bootstrap modeling, a power
 
 Throughout this chapter, I gained a deep understanding of the principles and applications of bootstrap modeling. This resampling technique is a valuable addition to my statistical toolkit, allowing me to make more robust inferences and validate the performance of complex models in real-world data analyses.
 
+
 ***Challenges encountered while working the below concepts of the coure***
 
 1. Regression Concepts:
