@@ -1,10 +1,9 @@
-# STA631 course portfolio Report for academic purpose and self learning
+# STA631 course portfolio Report 
+***for academic purpose and self learning***
 
 [Professor-STA631](https://github.com/dykesb)
 
-***This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course***
-
-# Statistics Portfolio
+**This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course**
 
 ## Regression Concepts
 In this chapter, I have learned about the fundamental concepts of regression analysis. Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It helps us understand how changes in the independent variables influence the dependent variable.
