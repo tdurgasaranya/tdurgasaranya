@@ -105,4 +105,5 @@ From this chapter, I gained the fundamentals understanding of the principles and
   solidifying my understanding and enhancing my learning experience.
 
 
-## My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models.
+***My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis
+tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models***
