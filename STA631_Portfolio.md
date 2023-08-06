@@ -1,9 +1,8 @@
 ## STA631 Portfolio
 - Name: Durga Tummalapalli
+[Professor - STA631 Course](https://github.com/dykesb)
 
-[Professor-STA631](https://github.com/dykesb)
-
-**This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course**
+***This report provides an overview of my proficiency and understanding of the chapters covered in our STA631 course***
 
 ## Regression Concepts
 In this chapter, I have learned about the fundamental concepts of regression analysis.
