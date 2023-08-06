@@ -1,5 +1,5 @@
-## STA631 Portfolio 
-***for academic purpose and self learning***
+## STA631 Portfolio
+- Name: Durga Tummalapalli
 
 [Professor-STA631](https://github.com/dykesb)
 
