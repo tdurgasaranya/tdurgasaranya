@@ -5,29 +5,36 @@
 ***This report provides an overview of my proficiency and understanding of the chapters covered in STA631 course***
 
 ## Regression Concepts
+
 In this chapter, I have learned about the fundamental concepts of regression analysis.
-Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It helps us understand how changes in the independent variables influence the dependent variable.
+Regression is a statistical method used to create any relationship between a dependent variable and one or more independent variables. It helps us understand how changes in the independent variables affects the dependent variable.
 
 ## Simple Linear Regression
-In this chapter, I explored the concept of simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
-I learned how to fit a linear equation on Rscript to the data using the method of least squares. The key parameters in simple linear regression are the slope and the intercept of the regression line, which help us make predictions and understand the relationship between the variables.
+
+In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
+I learned how to fit a linear equation using Rscript with the data using the method of least squares. The key parameters in simple linear regression are the slope and the intercept of the regression line, which help us make predictions and understand the relationship between the variables.
 
 ## Multiple Linear Regression
-This chapter introduced me to the concepts of multiple linear regression, where we extend the concept of simple linear regression to include multiple independent variables rather than one variable.
-I've learned how to fit a multiple regression model, interpret the coefficients, and perform hypothesis tests to assess the significance of the variables. Multiple linear regression helps to make accurate predictions when multiple factors influence the dependent variable.
+
+This chapter introduced me to the concepts of multiple linear regression, where we apply the concept of simple linear regression to include multiple independent variables rather than one variable.
+I've learned how to fit a multiple regression model, interpret the coefficients and perform hypothesis tests to validate the significance of the variables.
+Multiple linear regression helps to make accurate predictions when multiple factors influence the dependent variable.
 
 Throughout these chapters, I gained practical knowledge with working on Git repository for sharing code files and inputs, working with R studio workbench by applying regression analysis concpets taught in this course.
 
 # Logistic Regression
 
 ## Introduction to Logistic Regression
+
 Logistic regression is a powerful statistical method used for binary classification tasks, where the outcome variable is categorical with two classes. I learned how logistic regression models the probability of an event occurring based on one or more predictor variables.
 
 ## Multinomial Regression
+
 In this section, I explored the concepts of logistic regression to handle multi-class classification problems. Multinomial regression is used when the outcome variable has more than two categorical values or variables.
 I've learned how to set up and interpret multinomial logistic regression models, which help us understand the relationships between the predictors and multiple response categories.
 
 ## Generalized Linear Models (GLMs)
+
 Generalized Linear Models (GLMs) provide a flexible framework that includes both linear regression and logistic regression as special cases. I learned about the theoretical foundation of GLMs and how they handle different types of response variables (e.g., continuous, binary, count data).
 
 Throughout these chapters, I gained a deep understanding of logistic regression, multinomial regression, and generalized linear models.
