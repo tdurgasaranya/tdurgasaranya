@@ -84,20 +84,18 @@ From this chapter, I gained the fundamentals understanding of the principles and
    correlated predictors. Selecting the most relevant variables and addressing potential multicollinearity can be complex tasks.
 
 4.Logistic Regression:
-   Interpreting odds ratios and log-odds transformations in logistic regression can be tricky, particularly for those transitioning from
-   linear regression. Additionally, handling imbalanced datasets and understanding the output of logistic regression can be challenging.
+   Interpreting odds ratios, handling imbalanced datasets and understanding the output of logistic regression can be challenging.
 
 5.Multinomial Regression:
    Understanding the theory behind multinomial regression and interpreting its results can be difficult, especially when dealing with more
    than two response categories.
 
 6.Generalized Linear Models (GLMs):
-   The theoretical foundations of GLMs, such as link functions and probability distributions, was a little challenging task.
-   Implementing GLMs in practice and selecting appropriate link functions can also be complex.
+  Implementing GLMs in practice and selecting appropriate link functions can be complex task.
 
 7.Model Selection & Multiple Testing:
-   Deciding on the best model among many candidates and avoiding overfitting can be difficult in model selection. Similarly, understanding
-   and implementing multiple testing corrections to control false discoveries can be complex.
+   Deciding on the best model among many candidates and avoiding overfitting can be difficult in model selection.
+   Similarly, understanding and implementing multiple testing corrections to control false discoveries can be complex.
 
 
 - I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
