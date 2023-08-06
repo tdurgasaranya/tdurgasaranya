@@ -1,4 +1,4 @@
-# STA631 Portfolio  ***for academic purpose and self learning***
+### STA631 Portfolio  ***for academic purpose and self learning***
 
 [Professor-STA631](https://github.com/dykesb)
 
