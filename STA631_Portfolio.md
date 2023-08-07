@@ -43,6 +43,7 @@ Logistic regression is a powerful statistical method used for binary classificat
 In this section, I explored the concepts of logistic regression to handle multi-class classification problems. Multinomial regression is used when the outcome variable has more than two categorical values or variables.
 I've learned how to set up and interpret multinomial logistic regression models, which help us understand the relationships between the predictors and multiple response categories.
 
+[Multinomial regression work Git Link](https://github.com/tdurgasaranya/activity06-logistic-regression/blob/main/day02-multinomial/Durga_activity06-multinomial.Rmd)
 
 
 ## Generalized Linear Models (GLMs)
@@ -68,6 +69,9 @@ This method helps us to identify the most appropriate model that balances comple
 I've explored multiple testing correction methods like "False Discovery Rate (FDR)".
 I gained practical working examples in resampling techniques, cross-validation, model selection, and multiple testing corrections.
 
+[Mini project work Git Link](https://github.com/tdurgasaranya/activity08-mini-competition)
+
+
 # Bootstrap Modeling
 
 ## Introduction to Bootstrap Modeling
@@ -78,7 +82,9 @@ Bootstrap modeling, is a resampling technique used to estimate the variability o
 
 - Bootstrap Statistics:
    With the bootstrap samples, we can compute mean, standard deviation, confidence intervals.
-  
+
+[Boot Strapping work Git link](https://github.com/tdurgasaranya/activity09-bootstrapping)
+
 - Bootstrap Confidence Intervals
 - Model Validation:
    Bootstrap is used to assess the performance of any prediction model. Through bootstrap-based validation, we can
