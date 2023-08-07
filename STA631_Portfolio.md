@@ -143,6 +143,20 @@ From this chapter, I gained the fundamentals understanding of the principles and
 ***My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis
 tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models***
 
+
+### Overall Summary
+
+I am confident and proficient in these below concepts:
+- Data loading, Data manupulation in R studio, Data transforming with Git to R
+- Linear Regression concept, Data dimensions
+- Distribution of values with two variable comparisions
+- Scatter plot, Histogram distribution
+- Multilinear regression, logistic regression
+- Testing and accuracy in prediction
+- Timeseries modeling
+- To find the coefficiency of two variable determining the strength of linearity
+- To find the error rate and prediction
+
 I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
 
 
