@@ -134,20 +134,19 @@ From this chapter, I gained the fundamentals understanding of the principles and
 - Multinomial Regression:
    Understanding the theory behind multinomial regression and interpreting its results can be difficult, especially when dealing with more
    than two response categories.
-
-- Generalized Linear Models (GLMs):
-  Implementing GLMs in practice and selecting appropriate link functions can be complex task.
+  
 
 - Model Selection & Multiple Testing:
    Deciding on the best model among many candidates and avoiding overfitting can be difficult in model selection.
    Similarly, understanding and implementing multiple testing corrections to control false discoveries can be complex.
 
 
-
-1. I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
-2. I have been actively engaging in the Teams, online class discussions and trying to contribute to class activities (Breakout rooms),
-  solidifying my understanding and enhancing my learning experience.
-
-
 ***My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis
 tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models***
+
+I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
+
+
+I have been actively engaging in the Teams, online class discussions and trying to contribute to class activities (Breakout rooms),
+  solidifying my understanding and enhancing my learning experience.
+
