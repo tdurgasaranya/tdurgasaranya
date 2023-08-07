@@ -72,16 +72,35 @@ I gained practical working examples in resampling techniques, cross-validation, 
 [Mini project work Git Link](https://github.com/tdurgasaranya/activity08-mini-competition)
 
 
-# Bootstrap Modeling
+## Inventory - prediction
 
-## Introduction to Bootstrap Modeling
+[Inventory project work Git Link](https://github.com/tdurgasaranya/activity08-mini-competition/blob/main/competition-files/mini-competition.Rmd)
+
+- Challenging task with a depth of conceptual learning although results arent well done, on a future work completion basis:
+
+Here are some key takeaway pointers on predicting inventory from this project from my learnings:
+  
+- Time series modeling is useful for forecasting future inventory needs based on historical demand data.
+
+- We can fit a separate time series model for each product or item number, taking advantage of R's grouping and piping workflow. This accounts for trends and seasonality unique to each product.
+
+- Modeling at the product level allows more granular forecasts compared to aggregate methods. We get predicted demand per item rather than overall.
+
+- Good inventory forecasts require sufficient historical data. More data points lead to more robust models and accurate predictions.
+
+- Time series models account for trends and seasonality automatically. Predictions have uncertainty bounds. Inventory planning should consider confidence intervals and not just point estimates.
+
+- Forecasts need frequent retraining as new demand data comes in. Models should be refreshed periodically to effectively capture latest trends.
+
+
+# Bootstrap Modeling
 
 Bootstrap modeling, is a resampling technique used to estimate the variability of a statistical model's parameters and predictions. Bootstrap is particularly useful when the underlying data distribution is complex or unknown.
 
 ## Key Concepts learnt from Bootstrap Sampling chapter:
 
 - Bootstrap Statistics:
-   With the bootstrap samples, we can compute mean, standard deviation, confidence intervals.
+  With the bootstrap samples we can compute mean, standard deviation, confidence intervals.
 
 [Boot Strapping work Git link](https://github.com/tdurgasaranya/activity09-bootstrapping)
 
