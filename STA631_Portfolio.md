@@ -88,11 +88,7 @@ Here are some key takeaway pointers on predicting inventory from this project fr
 
 - We can fit a separate time series model for each product or item number, taking advantage of R's grouping and piping workflow. This accounts for trends and seasonality unique to each product.
 
-- Modeling at the product level allows more granular forecasts compared to aggregate methods. We get predicted demand per item rather than overall.
-
 - Good inventory forecasts require sufficient historical data. More data points lead to more robust models and accurate predictions.
-
-- Time series models account for trends and seasonality automatically. Predictions have uncertainty bounds. Inventory planning should consider confidence intervals and not just point estimates.
 
 - Forecasts need frequent retraining as new demand data comes in. Models should be refreshed periodically to effectively capture latest trends.
 
