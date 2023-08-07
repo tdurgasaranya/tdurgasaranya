@@ -6,20 +6,24 @@
 
 ## Regression Concepts
 
+[Git Link for repo](https://github.com/tdurgasaranya/activity01-course-tools)
+
+
 In this chapter, I have learned about the fundamental concepts of regression analysis.
 Regression is a statistical method used to create any relationship between a dependent variable and one or more independent variables. It helps us understand how changes in the independent variables affects the dependent variable.
 
-[Git Link for repo](https://github.com/tdurgasaranya/activity01-course-tools)
-
 ## Simple Linear Regression
-
-In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
-I learned how to fit a linear equation using Rscript with the data using the method of least squares. The key parameters in simple linear regression are the slope and the intercept of the regression line, which help us make predictions and understand the relationship between the variables.
 
 [Simple linear regression Git Link work](https://github.com/tdurgasaranya/activity02-slr)
 
 
+In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
+I learned how to fit a linear equation using Rscript with the data using the method of least squares. The key parameters in simple linear regression are the slope and the intercept of the regression line, which help us make predictions and understand the relationship between the variables.
+
+
 ## Multiple Linear Regression
+
+[Multiple Linear Regression Git work Link](https://github.com/tdurgasaranya/activity03-mlr)
 
 This chapter introduced me to the concepts of multiple linear regression, where we apply the concept of simple linear regression to include multiple independent variables rather than one variable.
 I've learned how to fit a multiple regression model, interpret the coefficients and perform hypothesis tests to validate the significance of the variables.
@@ -27,23 +31,23 @@ Multiple linear regression helps to make accurate predictions when multiple fact
 
 Throughout these chapters, I gained practical knowledge with working on Git repository for sharing code files and inputs, working with R studio workbench by applying regression analysis concpets taught in this course.
 
-[Multiple Linear Regression Git work Link](https://github.com/tdurgasaranya/activity03-mlr)
-
 
 # Logistic Regression
 
 ## Introduction to Logistic Regression
 
+[Logistic regression model work Git link](https://github.com/tdurgasaranya/activity06-logistic-regression/tree/main/day01-logistic)
+
+
 Logistic regression is a powerful statistical method used for binary classification tasks, where the outcome variable is categorical with two classes. I learned how logistic regression models the probability of an event occurring based on one or more predictor variables.
 
-[Logistic regression model work Git link](https://github.com/tdurgasaranya/activity06-logistic-regression/tree/main/day01-logistic)
 
 ## Multinomial Regression
 
+[Multinomial regression work Git Link](https://github.com/tdurgasaranya/activity06-logistic-regression/blob/main/day02-multinomial/Durga_activity06-multinomial.Rmd)
+
 In this section, I explored the concepts of logistic regression to handle multi-class classification problems. Multinomial regression is used when the outcome variable has more than two categorical values or variables.
 I've learned how to set up and interpret multinomial logistic regression models, which help us understand the relationships between the predictors and multiple response categories.
-
-[Multinomial regression work Git Link](https://github.com/tdurgasaranya/activity06-logistic-regression/blob/main/day02-multinomial/Durga_activity06-multinomial.Rmd)
 
 
 ## Generalized Linear Models (GLMs)
@@ -57,6 +61,8 @@ Throughout these chapters, I gained a deep understanding of logistic regression,
 
 ## Introduction to Resampling & Cross-validation
 
+[Mini project work Git Link](https://github.com/tdurgasaranya/activity08-mini-competition)
+
 In this chapter, I explored the concepts of resampling methods, which are drawing sample data points to obtain more estimates of model performance. Cross-validation is a widely used resampling technique that partitions the data into training and testing sets, allowing us to evaluate the model on unseen data.
 
 ## Model Selection & Multiple Testing
@@ -68,8 +74,6 @@ This method helps us to identify the most appropriate model that balances comple
 - Multiple Testing:
 I've explored multiple testing correction methods like "False Discovery Rate (FDR)".
 I gained practical working examples in resampling techniques, cross-validation, model selection, and multiple testing corrections.
-
-[Mini project work Git Link](https://github.com/tdurgasaranya/activity08-mini-competition)
 
 
 ## Inventory - prediction
@@ -95,15 +99,14 @@ Here are some key takeaway pointers on predicting inventory from this project fr
 
 # Bootstrap Modeling
 
+[Boot Strapping work Git link](https://github.com/tdurgasaranya/activity09-bootstrapping)
+
 Bootstrap modeling, is a resampling technique used to estimate the variability of a statistical model's parameters and predictions. Bootstrap is particularly useful when the underlying data distribution is complex or unknown.
 
 ## Key Concepts learnt from Bootstrap Sampling chapter:
 
 - Bootstrap Statistics:
   With the bootstrap samples we can compute mean, standard deviation, confidence intervals.
-
-[Boot Strapping work Git link](https://github.com/tdurgasaranya/activity09-bootstrapping)
-
 - Bootstrap Confidence Intervals
 - Model Validation:
    Bootstrap is used to assess the performance of any prediction model. Through bootstrap-based validation, we can
