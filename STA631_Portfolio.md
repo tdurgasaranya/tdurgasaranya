@@ -9,10 +9,15 @@
 In this chapter, I have learned about the fundamental concepts of regression analysis.
 Regression is a statistical method used to create any relationship between a dependent variable and one or more independent variables. It helps us understand how changes in the independent variables affects the dependent variable.
 
+[Git Link for repo](https://github.com/tdurgasaranya/activity01-course-tools)
+
 ## Simple Linear Regression
 
 In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
 I learned how to fit a linear equation using Rscript with the data using the method of least squares. The key parameters in simple linear regression are the slope and the intercept of the regression line, which help us make predictions and understand the relationship between the variables.
+
+[Simple linear regression Git Link work](https://github.com/tdurgasaranya/activity02-slr)
+
 
 ## Multiple Linear Regression
 
@@ -22,16 +27,23 @@ Multiple linear regression helps to make accurate predictions when multiple fact
 
 Throughout these chapters, I gained practical knowledge with working on Git repository for sharing code files and inputs, working with R studio workbench by applying regression analysis concpets taught in this course.
 
+[Multiple Linear Regression Git work Link](https://github.com/tdurgasaranya/activity03-mlr)
+
+
 # Logistic Regression
 
 ## Introduction to Logistic Regression
 
 Logistic regression is a powerful statistical method used for binary classification tasks, where the outcome variable is categorical with two classes. I learned how logistic regression models the probability of an event occurring based on one or more predictor variables.
 
+[Logistic regression model work Git link](https://github.com/tdurgasaranya/activity06-logistic-regression/tree/main/day01-logistic)
+
 ## Multinomial Regression
 
 In this section, I explored the concepts of logistic regression to handle multi-class classification problems. Multinomial regression is used when the outcome variable has more than two categorical values or variables.
 I've learned how to set up and interpret multinomial logistic regression models, which help us understand the relationships between the predictors and multiple response categories.
+
+
 
 ## Generalized Linear Models (GLMs)
 
