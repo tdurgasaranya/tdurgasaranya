@@ -172,3 +172,12 @@ I've consistently engaged and demonstrated my ability to apply the knowledge and
 I have been actively engaging in the Teams, online class discussions and trying to contribute to class activities (Breakout rooms),
   solidifying my understanding and enhancing my learning experience.
 
+### References of my statistical learnings and future resources:
+
+- [STA 631 course textbook](https://www.statlearning.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Excercise solutions](https://github.com/asadoughi/stat-learning)
+- [Libre Text Stats](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.01%3A_Linear_Relationships_Between_Variables)
+
+- youtube learnings, AI based learning
+  
