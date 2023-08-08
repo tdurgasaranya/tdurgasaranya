@@ -179,5 +179,5 @@ I have been actively engaging in the Teams, online class discussions and trying 
 - [Excercise solutions](https://github.com/asadoughi/stat-learning)
 - [Libre Text Stats](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.01%3A_Linear_Relationships_Between_Variables)
 
-- youtube learnings, AI based learning
+- Youtube learnings, AI based learning
   
