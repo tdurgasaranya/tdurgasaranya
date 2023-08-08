@@ -140,11 +140,16 @@ From this chapter, I gained the fundamentals understanding of the principles and
    Similarly, understanding and implementing multiple testing corrections to control false discoveries can be complex.
 
 
-***My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis
-tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models***
+Ways to integrate my learnings from STA631 course in my current/future job:
+
+- Applying these statistical techniques like regression, hypothesis testing to gain  more insights from organizational data.
+
+- Improving data visualizations and reporting solutions by integrating concepts like statistical significance, confidence intervals.
+
+- Identifying opportunities to provide statistical consulting to my colleagues.
 
 
-### Overall Summary
+### Overall Summary:
 
 I am confident and proficient in these below concepts:
 - Data loading, Data manupulation in R studio, Data transforming with Git to R
@@ -157,8 +162,12 @@ I am confident and proficient in these below concepts:
 - To find the coefficiency of two variable determining the strength of linearity
 - To find the error rate and prediction
 
-I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
 
+***My statistics portfolio reflects my proficiency in regression concepts and applications, showcasing my ability to handle data analysis
+tasks and draw valuable conclusions, my ability to handle diverse data analysis tasks using statistical models***
+
+
+I've consistently engaged and demonstrated my ability to apply the knowledge and concepts learnt from the class and the textbook.
 
 I have been actively engaging in the Teams, online class discussions and trying to contribute to class activities (Breakout rooms),
   solidifying my understanding and enhancing my learning experience.
